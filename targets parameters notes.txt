@@ -1,2 +1,3 @@
-by streaming service and age group
-by streaming service and combined ratings of rottne tomatoes and imdb
+by streaming service and age group 	
+by streaming service and combined ratings of rotten tomatoes and imdb
+by streaming service, age group, and combined ratings of rotten tomatos and imdb

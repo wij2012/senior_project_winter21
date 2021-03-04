@@ -3,7 +3,7 @@
 import pandas as pd 
 import numpy as np
 from sklearn.model_selection import train_test_split 
-input = pd.read_csv(r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\MoviesOnStreamingPlatforms_updated.csv\MoviesOnStreamingPlatforms_updated.csv") 
+input = pd.read_csv(r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\MoviesOnStreamingPlatforms_updated.csv\MoviesOnStreamingPlatforms_updated.csv") 
 # Preview the first 5 lines of the loaded data 
 #print(input.head())
 
@@ -35,8 +35,14 @@ delete_column_at_these_indicies = [0, 1, 11, 13, 14, 15]
 data = np.delete(input, obj=delete_column_at_these_indicies, axis=1)
 print(len(data[0]))
 print(data[0,:])
+np.savetxt("edited_data.txt", data, fmt='%s')
+""" file = open("edited_data.txt", "w+")
+file.write(str(data))
+file.close() """
 
-training_data, testing_data = train_test_split(data, train_size=.7, test_size=.3)
+#training_data, testing_data = train_test_split(data, train_size=.7, test_size=.3)
 #print(training_data[:3,:])
 #np.savetxt("training_data.txt", training_data, delimiter="#")
 #print(testing_data[0,:])
+
+print("done")
