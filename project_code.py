@@ -2,6 +2,7 @@
 # Load the Pandas libraries with alias 'pd' 
 import pandas as pd 
 import numpy as np
+print(np.version.version) 
 from sklearn.model_selection import train_test_split 
 input = pd.read_csv(r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\MoviesOnStreamingPlatforms_updated.csv\MoviesOnStreamingPlatforms_updated.csv") 
 # Preview the first 5 lines of the loaded data 
@@ -33,9 +34,16 @@ print(input[0,:])
 #delete unnecessary columns of data to allow for faster processing
 delete_column_at_these_indicies = [0, 1, 11, 13, 14, 15]
 data = np.delete(input, obj=delete_column_at_these_indicies, axis=1)
-print(len(data[0]))
+#print(len(data[0]))
 print(data[0,:])
-np.savetxt("edited_data.txt", data, fmt='%s')
+
+
+#write full edited data to .txt document for later use
+head = "This is the beginning of the edited data"
+foot = "This is the end of the edited data"
+#with open("edited_data.txt") as file:
+file = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.txt"
+np.savetxt(file, data, fmt='%s', delimiter=" || ", header=head, footer=foot, encoding="utf-8")
 """ file = open("edited_data.txt", "w+")
 file.write(str(data))
 file.close() """
