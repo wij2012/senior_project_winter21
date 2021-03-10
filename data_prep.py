@@ -2,9 +2,8 @@
 # Load the Pandas libraries with alias 'pd' 
 import pandas as pd 
 import numpy as np
-print(np.version.version) 
-from sklearn.model_selection import train_test_split 
-input = pd.read_csv(r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\MoviesOnStreamingPlatforms_updated.csv\MoviesOnStreamingPlatforms_updated.csv") 
+file = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\MoviesOnStreamingPlatforms_updated.csv\MoviesOnStreamingPlatforms_updated.csv"
+input = pd.read_csv(file) 
 # Preview the first 5 lines of the loaded data 
 #print(input.head())
 
@@ -42,15 +41,8 @@ print(data[0,:])
 head = "This is the beginning of the edited data"
 foot = "This is the end of the edited data"
 #with open("edited_data.txt") as file:
-file = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.txt"
-np.savetxt(file, data, fmt='%s', delimiter=" || ", header=head, footer=foot, encoding="utf-8")
-""" file = open("edited_data.txt", "w+")
-file.write(str(data))
-file.close() """
-
-#training_data, testing_data = train_test_split(data, train_size=.7, test_size=.3)
-#print(training_data[:3,:])
-#np.savetxt("training_data.txt", training_data, delimiter="#")
-#print(testing_data[0,:])
+filepath = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.csv"
+#np.savetxt(file, data, fmt='%s', delimiter=" || ", header=head, footer=foot, encoding="utf-8")
+pd.DataFrame(data).to_csv(filepath)
 
 print("done")

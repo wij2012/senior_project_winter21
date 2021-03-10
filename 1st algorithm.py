@@ -1,11 +1,18 @@
 import pandas as pd
 import numpy as np 
 
-filename = "edited_data.txt"
-#input = pd.read_csv(filename)
-#data = np.loadtxt(filename, dtype=np.string_, delimiter="||", encoding="utf-8")
-data = []
-with open(filename, 'r', encoding="utf-8") as f:
-    for line in f.readlines():
-        data.append(line.split(' '))
-print(data[0,:])
+#read edited data in
+filename = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.csv"
+input = pd.read_csv(filename)
+data = np.array(input)
+
+#look for items that are on netflix and classify them based on age group
+targets = []
+for i in data:
+    if(i[6] == 1):
+        if(i[4] == '7+'):
+            targets.append(1)
+        elif(i[4] == '13+'):
+            targets.append(2)
+        elif(i[4] == '18+'):
+            targets.append(3)
