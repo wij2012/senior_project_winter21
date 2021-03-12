@@ -1,4 +1,3 @@
-
 # Load the Pandas libraries with alias 'pd' 
 import pandas as pd 
 import numpy as np
