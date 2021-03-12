@@ -1,0 +1,565 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,95,Saving Mr. Banks,2013,13+,7.5,79%,1,0,0,1,John Lee Hancock,125.0
+1,103,Amy,2015,18+,7.8,95%,1,0,1,1,,60.0
+2,122,Bolt,2008,7+,6.8,89%,1,0,0,1,"Byron Howard,Chris Williams",96.0
+3,125,The Princess and the Frog,2009,all,7.1,85%,1,0,0,1,"Ron Clements,John Musker",97.0
+4,150,Miracle,2004,7+,7.5,81%,1,0,0,1,Gavin O'Connor,135.0
+5,482,White Fang,2018,7+,6.9,88%,1,0,0,1,Randal Kleiser,107.0
+6,724,Chicken Little,2005,all,5.7,37%,1,0,0,1,Mark Dindal,81.0
+7,1647,Diana: In Her Own Words,2017,,7.9,,1,0,0,1,"Tom Jennings,David Tillman",112.0
+8,1761,The Little Mermaid,2018,7+,4.2,20%,1,0,0,1,"Ron Clements,John Musker",83.0
+9,1776,Zapped,2014,all,5.1,,1,1,0,1,Peter DeLuise,102.0
+10,3580,Free Solo,2018,13+,8.2,97%,0,1,0,1,"Jimmy Chin,Elizabeth Chai Vasarhelyi",100.0
+11,3679,Jane,2017,7+,7.8,98%,0,1,0,1,Julian Jarrold,120.0
+12,3774,The Hunchback of Notre Dame,1923,,7.3,91%,0,1,0,1,"Gary Trousdale,Kirk Wise",91.0
+13,3854,Teen Spirit,2019,13+,6.1,71%,0,1,0,1,Max Minghella,93.0
+14,3960,The Kid,2019,18+,5.9,45%,0,1,1,1,Vincent D'Onofrio,100.0
+15,4313,Inside Out,2011,13+,4.5,25%,0,1,1,1,"Pete Docter,Ronnie Del Carmen",95.0
+16,4438,The Avengers,2012,13+,8.0,92%,0,0,1,1,Joss Whedon,143.0
+17,4454,Thor,2011,13+,7.0,77%,0,0,1,1,Kenneth Branagh,115.0
+18,4455,Captain America: The First Avenger,2011,13+,6.9,80%,0,0,1,1,Joe Johnston,124.0
+19,4462,Iron Man 2,2010,13+,7.0,73%,0,0,1,1,Jon Favreau,124.0
+20,5164,Robin Hood,1922,7+,7.2,100%,0,0,1,1,Ridley Scott,140.0
+21,5398,The Three Musketeers,1921,,7.0,100%,0,0,1,1,Paul W.S. Anderson,110.0
+22,5401,Empire of Dreams: The Story of the Star Wars Trilogy,2004,,8.3,,0,0,1,1,"Edith Becker,Kevin Burns",151.0
+23,6492,Cinderella,1965,all,7.8,,0,0,1,1,Kenneth Branagh,105.0
+24,6855,Starstruck,1982,7+,7.0,,0,0,1,1,Michael Grossman,90.0
+25,6960,Elephant,1989,,7.1,,0,0,1,1,Gus Van Sant,81.0
+26,8572,Noelle,2007,7+,5.9,57%,0,0,1,1,Marc Lawrence,100.0
+27,9328,The Prince and the Pauper,2000,7+,6.5,,0,0,1,1,Don Chaffey,93.0
+28,9802,"20,000 Leagues Under the Sea",1997,,5.0,,0,0,1,1,Richard Fleischer,127.0
+29,10102,Bears,2001,,7.3,,0,0,1,1,"Aaron Blaise,Robert Walker",85.0
+30,11538,The Swap,1979,18+,3.4,,0,0,1,1,Jay Karas,100.0
+31,12717,Sleeping Beauty,2014,13+,2.7,,0,0,1,1,Julia Leigh,101.0
+32,16212,Star Wars: A New Hope,1977,7+,8.6,92%,0,0,0,1,George Lucas,121.0
+33,16213,Star Wars: The Empire Strikes Back,1980,7+,8.7,94%,0,0,0,1,Irvin Kershner,124.0
+34,16214,The Lion King,1994,all,8.5,93%,0,0,0,1,Jon Favreau,118.0
+35,16215,Toy Story,1995,all,8.3,100%,0,0,0,1,John Lasseter,81.0
+36,16216,Avengers: Endgame,2019,13+,8.4,93%,0,0,0,1,"Anthony Russo,Joe Russo",181.0
+37,16217,WALL·E,2008,all,8.4,95%,0,0,0,1,Andrew Stanton,98.0
+38,16218,Up,2009,7+,8.2,98%,0,0,0,1,"Pete Docter,Bob Peterson",96.0
+39,16219,Guardians of the Galaxy,2014,13+,8.0,91%,0,0,0,1,James Gunn,121.0
+40,16220,Finding Nemo,2003,all,8.1,99%,0,0,0,1,"Andrew Stanton,Lee Unkrich",100.0
+41,16221,Coco,2017,7+,8.4,97%,0,0,0,1,"Lee Unkrich,Adrian Molina",105.0
+42,16222,Toy Story 3,2010,all,8.3,98%,0,0,0,1,Lee Unkrich,103.0
+43,16223,"Monsters, Inc.",2001,all,8.0,96%,0,0,0,1,"Pete Docter,David Silverman,Lee Unkrich",92.0
+44,16224,Star Wars: Return of the Jedi,1983,7+,8.3,82%,0,0,0,1,Richard Marquand,131.0
+45,16225,Zootopia,2016,7+,8.0,98%,0,0,0,1,"Byron Howard,Rich Moore,Jared Bush",108.0
+46,16226,Star Wars: The Force Awakens,2015,13+,7.9,93%,0,0,0,1,J.J. Abrams,138.0
+47,16227,Captain America: Civil War,2016,13+,7.8,91%,0,0,0,1,"Anthony Russo,Joe Russo",147.0
+48,16228,Thor: Ragnarok,2017,13+,7.9,93%,0,0,0,1,Taika Waititi,130.0
+49,16229,The Princess Bride,1987,7+,8.1,97%,0,0,0,1,Rob Reiner,98.0
+50,16230,Ratatouille,2007,all,8.0,96%,0,0,0,1,"Brad Bird,Jan Pinkava",111.0
+51,16231,Captain America: The Winter Soldier,2014,13+,7.7,90%,0,0,0,1,"Anthony Russo,Joe Russo",136.0
+52,16232,Aladdin,1992,all,8.0,95%,0,0,0,1,Guy Ritchie,128.0
+53,16233,Toy Story 2,1999,all,7.9,100%,0,0,0,1,"John Lasseter,Ash Brannon,Lee Unkrich",92.0
+54,16234,The Incredibles,2004,7+,8.0,97%,0,0,0,1,Brad Bird,115.0
+55,16235,Pirates of the Caribbean: The Curse of the Black Pearl,2003,13+,8.0,79%,0,0,0,1,Gore Verbinski,143.0
+56,16236,Avatar,2009,13+,7.8,82%,0,0,0,1,,23.0
+57,16237,Big Hero 6,2014,7+,7.8,89%,0,0,0,1,"Don Hall,Chris Williams",102.0
+58,16238,Doctor Strange,2016,13+,7.5,89%,0,0,0,1,Scott Derrickson,115.0
+59,16239,Guardians of the Galaxy Vol. 2,2017,13+,7.6,85%,0,0,0,1,James Gunn,136.0
+60,16240,Rogue One: A Star Wars Story,2016,13+,7.8,84%,0,0,0,1,Gareth Edwards,133.0
+61,16241,Toy Story 4,2019,all,7.8,97%,0,0,0,1,Josh Cooley,100.0
+62,16242,Moana,2016,7+,7.6,95%,0,0,0,1,"Ron Clements,John Musker,Don Hall,Chris Williams",107.0
+63,16243,Frozen,2013,7+,7.4,90%,0,0,0,1,"Chris Buck,Jennifer Lee",102.0
+64,16244,The Nightmare Before Christmas,1993,7+,8.0,95%,0,0,0,1,Henry Selick,76.0
+65,16245,Black Panther,2018,13+,7.3,97%,0,0,0,1,Ryan Coogler,134.0
+66,16246,Tangled,2010,7+,7.7,89%,0,0,0,1,"Nathan Greno,Byron Howard",100.0
+67,16247,Wreck-It Ralph,2012,7+,7.7,87%,0,0,0,1,Rich Moore,101.0
+68,16248,Ant-Man,2015,13+,7.3,83%,0,0,0,1,Peyton Reed,117.0
+69,16249,Onward,2020,7+,7.5,88%,0,0,0,1,Dan Scanlon,102.0
+70,16250,Avengers: Age of Ultron,2015,13+,7.3,75%,0,0,0,1,Joss Whedon,141.0
+71,16251,Mary Poppins,1964,all,7.8,100%,0,0,0,1,Robert Stevenson,139.0
+72,16252,Finding Dory,2016,7+,7.3,94%,0,0,0,1,"Andrew Stanton,Angus MacLane",97.0
+73,16253,Who Framed Roger Rabbit,1988,7+,7.7,97%,0,0,0,1,"Robert Zemeckis,Richard Williams",104.0
+74,16254,Mulan,1998,all,7.6,86%,0,0,0,1,Niki Caro,115.0
+75,16255,Iron Man 3,2013,13+,7.2,79%,0,0,0,1,Shane Black,130.0
+76,16256,The Sound of Music,1965,all,8.0,83%,0,0,0,1,Robert Wise,172.0
+77,16257,Ice Age,2002,7+,7.5,77%,0,0,0,1,"Chris Wedge,Carlos Saldanha",81.0
+78,16258,Cars,2006,all,7.1,75%,0,0,0,1,"John Lasseter,Joe Ranft",117.0
+79,16259,Snow White and the Seven Dwarfs,1937,all,7.6,98%,0,0,0,1,"William Cottrell,David Hand,Wilfred Jackson,Larry Morey,Perce Pearce,Ben Sharpsteen",83.0
+80,16260,Monsters University,2013,all,7.3,80%,0,0,0,1,Dan Scanlon,104.0
+81,16261,Frozen II,2019,7+,6.9,77%,0,0,0,1,"Chris Buck,Jennifer Lee",103.0
+82,16262,Togo,2019,7+,8.1,91%,0,0,0,1,Ericson Core,113.0
+83,16263,A Bug's Life,1998,all,7.2,92%,0,0,0,1,"John Lasseter,Andrew Stanton",95.0
+84,16264,The Jungle Book,1967,all,7.6,87%,0,0,0,1,Jon Favreau,106.0
+85,16265,Remember the Titans,2000,7+,7.8,73%,0,0,0,1,Boaz Yakin,113.0
+86,16266,Brave,2012,7+,7.1,78%,0,0,0,1,"Mark Andrews,Brenda Chapman,Steve Purcell",93.0
+87,16267,The Simpsons Movie,2007,13+,7.3,88%,0,0,0,1,David Silverman,87.0
+88,16268,Fantasia,1940,all,7.8,94%,0,0,0,1,"James Algar,Samuel Armstrong,Ford Beebe Jr.,Norman Ferguson,David Hand,Jim Handley,T. Hee,Wilfred Jackson,Hamilton Luske,Bill Roberts,Paul Satterfield,Ben Sharpsteen",125.0
+89,16269,The Emperor's New Groove,2000,all,7.3,85%,0,0,0,1,Mark Dindal,78.0
+90,16270,The Straight Story,1999,all,8.0,95%,0,0,0,1,David Lynch,112.0
+91,16271,One Hundred and One Dalmatians,1961,all,7.2,98%,0,0,0,1,"Clyde Geronimi,Hamilton Luske,Wolfgang Reitherman",79.0
+92,16272,Lady and the Tramp,1955,all,7.3,93%,0,0,0,1,Charlie Bean,103.0
+93,16273,Pinocchio,1940,all,7.4,100%,0,0,0,1,Matteo Garrone,120.0
+94,16274,Thor: The Dark World,2013,13+,6.9,66%,0,0,0,1,Alan Taylor,112.0
+95,16275,Star Wars: The Last Jedi,2017,13+,7.0,90%,0,0,0,1,Rian Johnson,152.0
+96,16276,Lilo & Stitch,2002,7+,7.2,86%,0,0,0,1,"Dean DeBlois,Chris Sanders",85.0
+97,16277,Star Wars: The Rise of Skywalker,2019,13+,6.7,52%,0,0,0,1,J.J. Abrams,142.0
+98,16278,Pirates of the Caribbean: Dead Man's Chest,2006,13+,7.3,53%,0,0,0,1,Gore Verbinski,151.0
+99,16279,Bambi,1942,all,7.3,90%,0,0,0,1,"James Algar,Samuel Armstrong,David Hand,Graham Heid,Bill Roberts,Paul Satterfield,Norman Wright,Arthur Davis,Clyde Geronimi",70.0
+100,16280,Captain Marvel,2019,13+,6.9,78%,0,0,0,1,"Anna Boden,Ryan Fleck",123.0
+101,16281,Alice in Wonderland,1951,all,7.4,81%,0,0,0,1,Tim Burton,108.0
+102,16282,Peter Pan,1953,all,7.3,80%,0,0,0,1,P.J. Hogan,113.0
+103,16283,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,7+,6.9,76%,0,0,0,1,Andrew Adamson,143.0
+104,16284,Miracle on 34th Street,1947,all,7.9,96%,0,0,0,1,George Seaton,96.0
+105,16285,Pirates of the Caribbean: At World's End,2007,13+,7.1,44%,0,0,0,1,Gore Verbinski,169.0
+106,16286,The Many Adventures of Winnie the Pooh,1977,all,7.6,100%,0,0,0,1,"John Lounsbery,Wolfgang Reitherman,Ben Sharpsteen",74.0
+107,16287,Star Wars: Episode II - Attack of the Clones,2002,7+,6.5,65%,0,0,0,1,George Lucas,142.0
+108,16288,The Muppet Movie,1979,all,7.6,88%,0,0,0,1,James Frawley,95.0
+109,16289,Mickey's Christmas Carol,1983,all,8.0,100%,0,0,0,1,Burny Mattinson,26.0
+110,16290,Star Wars: Episode I - The Phantom Menace,1999,7+,6.5,53%,0,0,0,1,George Lucas,136.0
+111,16291,Cool Runnings,1993,7+,7.0,76%,0,0,0,1,Jon Turteltaub,98.0
+112,16292,The Parent Trap,1998,7+,6.5,86%,0,0,0,1,Nancy Meyers,128.0
+113,16293,The Muppet Christmas Carol,1992,all,7.7,75%,0,0,0,1,Brian Henson,85.0
+114,16294,Treasure Planet,2002,7+,7.2,69%,0,0,0,1,"Ron Clements,John Musker",95.0
+115,16295,The Fox and the Hound,1981,all,7.3,70%,0,0,0,1,"Ted Berman,Richard Rich,Art Stevens,David Hand,Wolfgang Reitherman",83.0
+116,16296,Holes,2003,7+,7.0,78%,0,0,0,1,Andrew Davis,117.0
+117,16297,Pete's Dragon,2016,7+,6.7,88%,0,0,0,1,David Lowery,102.0
+118,16298,The Good Dinosaur,2015,7+,6.7,76%,0,0,0,1,Peter Sohn,93.0
+119,16299,Frankenweenie,2012,7+,6.9,87%,0,0,0,1,Tim Burton,87.0
+120,16300,Tron,1982,7+,6.8,74%,0,0,0,1,Joseph Kosinski,125.0
+121,16301,Winnie the Pooh,2011,all,7.2,91%,0,0,0,1,Marc Forster,104.0
+122,16302,TRON: Legacy,2010,7+,6.8,51%,0,0,0,1,Joseph Kosinski,125.0
+123,16303,The Sword in the Stone,1963,all,7.2,67%,0,0,0,1,"Wolfgang Reitherman,Clyde Geronimi,David Hand",79.0
+124,16304,The Aristocats,1970,all,7.1,66%,0,0,0,1,Wolfgang Reitherman,78.0
+125,16305,Cars 3,2017,all,6.7,70%,0,0,0,1,Brian Fee,102.0
+126,16306,Queen of Katwe,2016,7+,7.4,93%,0,0,0,1,Mira Nair,124.0
+127,16307,Homeward Bound: The Incredible Journey,1993,all,6.9,87%,0,0,0,1,Duwayne Dunham,84.0
+128,16308,Maleficent: Mistress of Evil,2019,7+,6.6,40%,0,0,0,1,Joachim Rønning,119.0
+129,16309,Before the Flood,2016,7+,8.3,74%,0,0,0,1,Fisher Stevens,96.0
+130,16310,The Chronicles of Narnia: Prince Caspian,2008,7+,6.5,66%,0,0,0,1,Andrew Adamson,150.0
+131,16311,The Great Mouse Detective,1986,all,7.2,79%,0,0,0,1,"Ron Clements,Burny Mattinson,David Michener,John Musker",74.0
+132,16312,Flight of the Navigator,1986,7+,6.9,83%,0,0,0,1,Randal Kleiser,90.0
+133,16313,James and the Giant Peach,1996,7+,6.7,91%,0,0,0,1,Henry Selick,79.0
+134,16314,Willow,1988,7+,7.3,50%,0,0,0,1,Ron Howard,126.0
+135,16315,Meet the Robinsons,2007,all,6.8,67%,0,0,0,1,Stephen J. Anderson,95.0
+136,16316,Star Wars: Episode III - Revenge of the Sith,2005,13+,7.5,,0,0,0,1,George Lucas,140.0
+137,16317,Fantasia 2000,1999,all,7.2,81%,0,0,0,1,"James Algar,Gaëtan Brizzi,Paul Brizzi,Hendel Butoy,Francis Glebas,Eric Goldberg,Don Hahn,Pixote Hunt",75.0
+138,16318,Tinker Bell,2008,all,6.8,100%,0,0,0,1,Bradley Raymond,78.0
+139,16319,The Rescuers,1977,all,6.9,80%,0,0,0,1,"John Lounsbery,Wolfgang Reitherman,Art Stevens",78.0
+140,16320,Eight Below,2006,7+,7.3,72%,0,0,0,1,Frank Marshall,120.0
+141,16321,Invincible,2006,7+,7.1,72%,0,0,0,1,Angelina Jolie,137.0
+142,16322,Sister Act,1992,7+,6.4,73%,0,0,0,1,Emile Ardolino,100.0
+143,16323,John Carter,2012,13+,6.6,52%,0,0,0,1,Andrew Stanton,132.0
+144,16324,Freaky Friday,2003,7+,6.1,88%,0,0,0,1,Mark Waters,97.0
+145,16325,The Santa Clause,1994,7+,6.5,71%,0,0,0,1,John Pasquin,97.0
+146,16326,Descendants,2015,all,6.4,90%,0,0,0,1,Kenny Ortega,112.0
+147,16327,Old Yeller,1957,all,7.3,100%,0,0,0,1,Robert Stevenson,83.0
+148,16328,"Honey, I Shrunk the Kids",1989,7+,6.3,75%,0,0,0,1,Joe Johnston,93.0
+149,16329,Phineas and Ferb the Movie: Across the 2nd Dimension,2011,all,7.4,100%,0,0,0,1,"Robert Hughes,Dan Povenmire,Jay Lender,Jeff 'Swampy' Marsh,Kyle Menke",78.0
+150,16330,Pirates of the Caribbean: On Stranger Tides,2011,13+,6.6,33%,0,0,0,1,Rob Marshall,137.0
+151,16331,The BFG,2016,7+,6.4,75%,0,0,0,1,Steven Spielberg,117.0
+152,16332,The Princess Diaries,2001,all,6.3,48%,0,0,0,1,Garry Marshall,111.0
+153,16333,National Treasure: Book of Secrets,2007,7+,6.5,36%,0,0,0,1,Jon Turteltaub,124.0
+154,16334,The Finest Hours,2016,13+,6.8,64%,0,0,0,1,Craig Gillespie,117.0
+155,16335,DuckTales: The Movie - Treasure of the Lost Lamp,1990,all,6.9,88%,0,0,0,1,Bob Hathcock,74.0
+156,16336,A Goofy Movie,1995,all,6.8,59%,0,0,0,1,Kevin Lima,78.0
+157,16337,The Greatest Game Ever Played,2005,7+,7.4,63%,0,0,0,1,Bill Paxton,120.0
+158,16338,The Lion King 1½,2004,all,6.5,78%,0,0,0,1,Bradley Raymond,77.0
+159,16339,The Lion King II: Simba's Pride,1998,all,6.5,62%,0,0,0,1,"Darrell Rooney,Rob LaDuca",81.0
+160,16340,The Adventures of Ichabod and Mr. Toad,1949,7+,7.0,93%,0,0,0,1,"James Algar,Clyde Geronimi,Jack Kinney",68.0
+161,16341,Tinker Bell and the Lost Treasure,2009,all,6.7,100%,0,0,0,1,Klay Hall,81.0
+162,16342,Bedknobs and Broomsticks,1971,all,7.1,65%,0,0,0,1,"Robert Stevenson,Ward Kimball",117.0
+163,16343,Hocus Pocus,1993,7+,6.9,34%,0,0,0,1,Kenny Ortega,96.0
+164,16344,Secretariat,2010,7+,7.2,63%,0,0,0,1,Randall Wallace,123.0
+165,16345,Darby O'Gill and the Little People,1959,all,7.2,100%,0,0,0,1,Robert Stevenson,93.0
+166,16346,Muppet Treasure Island,1996,all,7.0,73%,0,0,0,1,"Brian Henson,David Lane",99.0
+167,16347,The Rescuers Down Under,1990,all,6.9,69%,0,0,0,1,"Hendel Butoy,Mike Gabriel",77.0
+168,16348,The Rocketeer,1991,7+,6.5,65%,0,0,0,1,Joe Johnston,108.0
+169,16349,High School Musical,2006,all,5.4,63%,0,0,0,1,Kenny Ortega,98.0
+170,16350,Atlantis: The Lost Empire,2001,7+,6.9,49%,0,0,0,1,"Gary Trousdale,Kirk Wise",95.0
+171,16351,The Great Muppet Caper,1981,all,7.2,76%,0,0,0,1,Jim Henson,97.0
+172,16352,Teen Beach Movie,2013,7+,5.9,86%,0,0,0,1,Jeffrey Hornaday,110.0
+173,16353,Journey to the Center of the Earth,1959,all,7.0,86%,0,0,0,1,Eric Brevig,93.0
+174,16354,Pollyanna,1960,all,7.4,86%,0,0,0,1,David Swift,134.0
+175,16355,High School Musical 2,2007,all,5.0,82%,0,0,0,1,Kenny Ortega,104.0
+176,16356,Halloweentown,1998,all,6.8,80%,0,0,0,1,Duwayne Dunham,84.0
+177,16357,Brother Bear,2003,all,6.8,37%,0,0,0,1,"Aaron Blaise,Robert Walker",85.0
+178,16358,Millions,2004,13+,6.9,88%,0,0,0,1,Danny Boyle,98.0
+179,16359,Muppets Most Wanted,2014,7+,6.4,80%,0,0,0,1,James Bobin,107.0
+180,16360,The Journey of Natty Gann,1985,7+,7.1,100%,0,0,0,1,Jeremy Kagan,101.0
+181,16361,Secret of the Wings,2012,all,7.1,60%,0,0,0,1,"Roberts Gannaway,Peggy Holmes",75.0
+182,16362,Cars 2,2011,all,6.1,39%,0,0,0,1,"John Lasseter,Bradford Lewis",106.0
+183,16363,Tinker Bell and the Great Fairy Rescue,2010,all,6.9,78%,0,0,0,1,Bradley Raymond,76.0
+184,16364,Descendants 2,2017,all,6.5,67%,0,0,0,1,Kenny Ortega,111.0
+185,16365,Adventures in Babysitting,2016,all,6.0,100%,0,0,0,1,Chris Columbus,102.0
+186,16366,Dinosaur,2000,7+,6.5,64%,0,0,0,1,"Eric Leighton,Ralph Zondag",82.0
+187,16367,Dumbo,2019,7+,6.3,47%,0,0,0,1,Tim Burton,112.0
+188,16368,The Color of Friendship,2000,7+,7.2,100%,0,0,0,1,Kevin Hooks,87.0
+189,16369,Oliver & Company,1988,all,6.7,51%,0,0,0,1,George Scribner,74.0
+190,16370,Monkey Kingdom,2015,all,7.3,93%,0,0,0,1,"Mark Linfield,Alastair Fothergill",81.0
+191,16371,"Davy Crockett, King of the Wild Frontier",1955,all,7.0,100%,0,0,0,1,Norman Foster,93.0
+192,16372,The Three Caballeros,1944,all,6.5,82%,0,0,0,1,John Landis,104.0
+193,16373,That Darn Cat!,1965,all,6.8,94%,0,0,0,1,Robert Stevenson,116.0
+194,16374,African Cats,2011,all,7.6,73%,0,0,0,1,"Keith Scholey,Alastair Fothergill",89.0
+195,16375,Newsies,1992,7+,7.0,39%,0,0,0,1,Kenny Ortega,121.0
+196,16376,3 Men and a Baby,1987,7+,6.0,75%,0,0,0,1,Leonard Nimoy,102.0
+197,16377,Tuck Everlasting,2002,7+,6.6,60%,0,0,0,1,Jay Russell,90.0
+198,16378,The Incredible Journey,1963,all,7.1,89%,0,0,0,1,Fletcher Markle,80.0
+199,16379,The Love Bug,1968,all,6.5,76%,0,0,0,1,Robert Stevenson,108.0
+200,16380,High School Musical 3: Senior Year,2008,all,4.8,64%,0,0,0,1,Kenny Ortega,112.0
+201,16381,Return to Oz,1985,7+,6.7,52%,0,0,0,1,Walter Murch,113.0
+202,16382,Blackbeard's Ghost,1968,all,6.9,82%,0,0,0,1,Robert Stevenson,106.0
+203,16383,Chimpanzee,2012,all,7.2,76%,0,0,0,1,"Alastair Fothergill,Mark Linfield",78.0
+204,16384,The Absent-Minded Professor,1961,all,6.8,83%,0,0,0,1,Robert Stevenson,92.0
+205,16385,Camp Rock,2008,all,5.2,45%,0,0,0,1,Matthew Diamond,94.0
+206,16386,Penguins,2019,all,7.0,92%,0,0,0,1,"Alastair Fothergill,Jeff Wilson",76.0
+207,16387,Pooh's Heffalump Movie,2005,all,6.4,80%,0,0,0,1,Frank Nissen,68.0
+208,16388,Turner & Hooch,1989,7+,6.2,52%,0,0,0,1,Roger Spottiswoode,97.0
+209,16389,Glory Road,2006,7+,7.2,,0,0,0,1,James Gartner,118.0
+210,16390,Princess Protection Program,2009,all,5.6,60%,0,0,0,1,Allison Liddi-Brown,90.0
+211,16391,Science Fair,2018,7+,7.4,97%,0,0,0,1,"Cristina Costantini,Darren Foster",90.0
+212,16392,Greyfriars Bobby: The True Story of a Dog,1961,,7.3,100%,0,0,0,1,Don Chaffey,87.0
+213,16393,Diary of a Wimpy Kid,2010,7+,6.2,53%,0,0,0,1,Thor Freudenthal,120.0
+214,16394,The Odd Life of Timothy Green,2012,7+,6.6,35%,0,0,0,1,Peter Hedges,105.0
+215,16395,Splash,1984,7+,6.2,90%,0,0,0,1,Ron Howard,111.0
+216,16396,The Princess Diaries 2: Royal Engagement,2004,all,5.8,26%,0,0,0,1,Garry Marshall,113.0
+217,16397,The Black Cauldron,1985,7+,6.4,55%,0,0,0,1,"Ted Berman,Richard Rich",80.0
+218,16398,The Game Plan,2007,7+,6.1,28%,0,0,0,1,Andy Fickman,110.0
+219,16399,Cinderella III: A Twist in Time,2007,all,5.9,75%,0,0,0,1,Frank Nissen,74.0
+220,16400,Waking Sleeping Beauty,2009,7+,7.6,71%,0,0,0,1,Don Hahn,86.0
+221,16401,The Tigger Movie,2000,all,6.3,62%,0,0,0,1,Jun Falkenstein,77.0
+222,16402,Escape to Witch Mountain,1975,all,6.4,76%,0,0,0,1,John Hough,97.0
+223,16403,Timmy Failure: Mistakes Were Made,2020,7+,6.1,88%,0,0,0,1,Tom McCarthy,99.0
+224,16404,101 Dalmatians,1996,all,5.7,42%,0,0,0,1,Stephen Herek,103.0
+225,16405,The Last Song,2010,7+,6.0,21%,0,0,0,1,Julie Anne Robinson,107.0
+226,16406,George of the Jungle,1997,7+,5.5,57%,0,0,0,1,Sam Weisman,92.0
+227,16407,Frank and Ollie,1995,7+,7.8,88%,0,0,0,1,Theodore Thomas,89.0
+228,16408,The Santa Clause 2,2002,all,5.6,56%,0,0,0,1,Michael Lembeck,104.0
+229,16409,Heavyweights,1995,7+,6.6,29%,0,0,0,1,Steven Brill,100.0
+230,16410,Ice Princess,2005,all,6.0,52%,0,0,0,1,Tim Fywell,98.0
+231,16411,Bedtime Stories,2008,7+,6.0,26%,0,0,0,1,Adam Shankman,99.0
+232,16412,Cheaper by the Dozen,2003,7+,5.9,24%,0,0,0,1,Shawn Levy,98.0
+233,16413,An Extremely Goofy Movie,2000,all,6.4,63%,0,0,0,1,Douglas McCarthy,79.0
+234,16414,Twitches,2005,7+,5.7,60%,0,0,0,1,Stuart Gillard,86.0
+235,16415,Iron Will,1994,7+,6.6,62%,0,0,0,1,Charles Haid,108.0
+236,16416,Aladdin and the King of Thieves,1996,all,6.4,33%,0,0,0,1,Tad Stones,81.0
+237,16417,Piglet's Big Movie,2003,all,6.1,70%,0,0,0,1,Francis Glebas,75.0
+238,16418,Because of Winn-Dixie,2005,7+,6.3,55%,0,0,0,1,Wayne Wang,106.0
+239,16419,Fun and Fancy Free,1947,all,6.6,67%,0,0,0,1,"Jack Kinney,Hamilton Luske,William Morgan,Bill Roberts",73.0
+240,16420,Mickey's Once Upon a Christmas,1999,all,7.2,40%,0,0,0,1,"Jun Falkenstein,Alex Mann,Bradley Raymond,Toby Shelton,Bill Speers",66.0
+241,16421,Deep Blue,2003,all,7.4,67%,0,0,0,1,Renny Harlin,105.0
+242,16422,Red Tails,2012,13+,5.9,40%,0,0,0,1,Anthony Hemingway,125.0
+243,16423,Lilo & Stitch 2: Stitch Has a Glitch,2005,7+,6.3,40%,0,0,0,1,"Michael LaBash,Tony Leondis",68.0
+244,16424,Ruby Bridges,1998,7+,7.2,83%,0,0,0,1,Euzhan Palcy,96.0
+245,16425,Doctor Dolittle,1998,13+,5.4,42%,0,0,0,1,Betty Thomas,85.0
+246,16426,Brother Bear 2,2006,7+,6.2,50%,0,0,0,1,Ben Gluck,74.0
+247,16427,Camp Rock 2: The Final Jam,2010,7+,5.2,63%,0,0,0,1,Paul Hoen,97.0
+248,16428,Recess: School's Out,2001,all,6.6,60%,0,0,0,1,Chuck Sheetz,82.0
+249,16429,The Adventures of Huck Finn,1993,7+,6.2,73%,0,0,0,1,Stephen Sommers,108.0
+250,16430,Lemonade Mouth,2011,7+,6.9,,0,0,0,1,Patricia Riggen,103.0
+251,16431,The Crimson Wing: Mystery of the Flamingos,2008,all,7.3,75%,0,0,0,1,"Matthew Aeberhard,Leander Ward",78.0
+252,16432,Big Business,1988,7+,6.4,44%,0,0,0,1,Jim Abrahams,97.0
+253,16433,Melody Time,1948,,6.4,80%,0,0,0,1,"Clyde Geronimi,Wilfred Jackson,Jack Kinney,Hamilton Luske",75.0
+254,16434,Bambi II,2006,all,6.1,50%,0,0,0,1,Brian Pimental,75.0
+255,16435,The Cheetah Girls,2003,all,4.8,71%,0,0,0,1,Oz Scott,100.0
+256,16436,Hannah Montana: The Movie,2009,all,4.5,44%,0,0,0,1,Peter Chelsom,102.0
+257,16437,Herbie Rides Again,1974,all,5.7,80%,0,0,0,1,Robert Stevenson,88.0
+258,16438,Descendants 3,2019,all,6.7,78%,0,0,0,1,Kenny Ortega,106.0
+259,16439,Olaf's Frozen Adventure,2017,all,5.5,57%,0,0,0,1,"Kevin Deters,Stevie Wermers",22.0
+260,16440,The Apple Dumpling Gang,1975,all,6.5,56%,0,0,0,1,Norman Tokar,100.0
+261,16441,Newsies: The Broadway Musical,2017,13+,8.5,,0,0,0,1,"Jeff Calhoun,Brett Sullivan",149.0
+262,16442,101 Dalmatians II: Patch's London Adventure,2003,all,5.8,67%,0,0,0,1,"Jim Kammerud,Brian Smith",74.0
+263,16443,Saludos Amigos,1942,,6.2,83%,0,0,0,1,"Wilfred Jackson,Jack Kinney,Hamilton Luske,Bill Roberts,Norman Ferguson",42.0
+264,16444,Mighty Joe Young,1998,7+,5.6,55%,0,0,0,1,Ron Underwood,114.0
+265,16445,Thumbelina,1994,all,6.3,30%,0,0,0,1,"Don Bluth,Gary Goldman",86.0
+266,16446,The Lizzie McGuire Movie,2003,7+,5.5,41%,0,0,0,1,Jim Fall,94.0
+267,16447,The Cat from Outer Space,1978,all,6.1,67%,0,0,0,1,Norman Tokar,104.0
+268,16448,Rookie of the Year,1993,7+,6.0,35%,0,0,0,1,Daniel Stern,103.0
+269,16449,Sister Act 2: Back in the Habit,1993,7+,5.6,7%,0,0,0,1,Bill Duke,107.0
+270,16450,Homeward Bound II: Lost in San Francisco,1996,all,5.9,53%,0,0,0,1,David R. Ellis,88.0
+271,16451,Jump In!,2007,all,5.3,63%,0,0,0,1,Paul Hoen,85.0
+272,16452,Roving Mars,2006,7+,7.2,70%,0,0,0,1,George Butler,40.0
+273,16453,The Black Hole,1979,7+,6.0,40%,0,0,0,1,Gary Nelson,98.0
+274,16454,Lady and the Tramp II: Scamp's Adventure,2001,all,5.9,45%,0,0,0,1,"Darrell Rooney,Jeannine Roussel",69.0
+275,16455,Around the World in 80 Days,2004,7+,5.9,32%,0,0,0,1,Frank Coraci,120.0
+276,16456,Luxo Jr.,1986,all,7.3,,0,0,0,1,John Lasseter,2.0
+277,16457,Flubber,1997,7+,5.3,24%,0,0,0,1,Les Mayfield,93.0
+278,16458,The Return of Jafar,1994,all,5.9,33%,0,0,0,1,"Toby Shelton,Tad Stones,Alan Zaslove",69.0
+279,16459,Aliens of the Deep,2005,all,6.4,84%,0,0,0,1,"James Cameron,Steven Quale",100.0
+280,16460,"Mickey, Donald, Goofy: The Three Musketeers",2004,all,6.4,36%,0,0,0,1,Donovan Cook,68.0
+281,16461,The Little Mermaid: Ariel's Beginning,2008,7+,6.3,33%,0,0,0,1,Peggy Holmes,77.0
+282,16462,The Cheetah Girls 2: When in Spain,2006,all,5.0,43%,0,0,0,1,Kenny Ortega,96.0
+283,16463,Pooh's Grand Adventure: The Search for Christopher Robin,1997,all,7.1,33%,0,0,0,1,Karl Geurs,76.0
+284,16464,Jack,1996,13+,5.8,18%,0,0,0,1,"Albert Hughes,Allen Hughes",122.0
+285,16465,Stargirl,2020,7+,6.2,71%,0,0,0,1,,45.0
+286,16466,Return to Never Land,2002,all,5.8,45%,0,0,0,1,"Robin Budd,Donovan Cook",72.0
+287,16467,The Shaggy Dog,1959,all,6.5,68%,0,0,0,1,Charles Barton,104.0
+288,16468,Herbie Goes to Monte Carlo,1977,all,5.7,60%,0,0,0,1,Vincent McEveety,105.0
+289,16469,Home on the Range,2004,7+,5.3,53%,0,0,0,1,"Will Finn,John Sanford",76.0
+290,16470,The Little Mermaid II: Return to the Sea,2000,7+,5.6,33%,0,0,0,1,"Jim Kammerud,Brian Smith",75.0
+291,16471,The Cheetah Girls: One World,2008,all,4.7,67%,0,0,0,1,Paul Hoen,90.0
+292,16472,Leroy & Stitch,2006,all,6.2,40%,0,0,0,1,"Tony Craig,Roberts Gannaway",73.0
+293,16473,Herbie Fully Loaded,2005,all,4.8,41%,0,0,0,1,Angela Robinson,101.0
+294,16474,Let It Shine,2012,all,6.4,,0,0,0,1,Paul Hoen,104.0
+295,16475,Wizards of Waverly Place: The Movie,2009,7+,6.2,,0,0,0,1,Lev L. Spiro,94.0
+296,16476,A Wrinkle in Time,2018,7+,4.2,42%,0,0,0,1,Ava DuVernay,109.0
+297,16477,Benji the Hunted,1987,all,6.3,50%,0,0,0,1,Joe Camp,88.0
+298,16478,Recess: Taking the Fifth Grade,2003,all,6.8,67%,0,0,0,1,Howy Parkins,62.0
+299,16479,The Even Stevens Movie,2003,all,6.2,40%,0,0,0,1,Sean McNamara,93.0
+300,16480,Marvel Rising: Secret Warriors,2018,,5.2,100%,0,0,0,1,"Alfred Gimeno,Eric Radomski",80.0
+301,16481,Mars Needs Moms,2011,7+,5.4,37%,0,0,0,1,Simon Wells,88.0
+302,16482,Sharpay's Fabulous Adventure,2011,all,4.7,60%,0,0,0,1,Michael Lembeck,90.0
+303,16483,The Wizards Return: Alex vs. Alex,2013,7+,6.4,,0,0,0,1,Victor Gonzalez,60.0
+304,16484,Home Alone 3,1997,7+,4.5,29%,0,0,0,1,Raja Gosnell,102.0
+305,16485,3 Men and a Little Lady,1990,7+,5.4,38%,0,0,0,1,Emile Ardolino,104.0
+306,16486,Beauty and the Beast: The Enchanted Christmas,1997,all,6.1,13%,0,0,0,1,Andrew Knight,72.0
+307,16487,Annie,1999,all,6.7,,0,0,0,1,John Huston,126.0
+308,16488,Tiger Cruise,2005,7+,6.2,60%,0,0,0,1,Duwayne Dunham,88.0
+309,16489,Stitch! The Movie,2003,all,6.2,20%,0,0,0,1,"Tony Craig,Roberts Gannaway",60.0
+310,16490,Babes in Toyland,1961,all,6.3,36%,0,0,0,1,Jack Donohue,106.0
+311,16491,Brink!,1998,all,7.1,,0,0,0,1,Greg Beeman,99.0
+312,16492,Tall Tale,1995,7+,5.9,50%,0,0,0,1,Jeremiah S. Chechik,96.0
+313,16493,"Good Luck Charlie, It's Christmas!",2011,all,6.4,,0,0,0,1,Arlene Sanford,90.0
+314,16494,G-Force,2009,7+,5.1,22%,0,0,0,1,Hoyt Yeatman,88.0
+315,16495,Cloud 9,2014,all,6.6,,0,0,0,1,Paul Hoen,85.0
+316,16496,Geek Charming,2011,7+,6.4,,0,0,0,1,Jeffrey Hornaday,94.0
+317,16497,Snow Dogs,2002,7+,5.2,25%,0,0,0,1,Brian Levant,99.0
+318,16498,Mulan II,2004,all,5.7,,0,0,0,1,"Darrell Rooney,Lynne Southerland",79.0
+319,16499,Dr. Dolittle 2,2001,7+,4.7,42%,0,0,0,1,Steve Carr,87.0
+320,16500,Kim Possible Movie: So the Drama,2005,all,7.1,,0,0,0,1,Steve Loter,71.0
+321,16501,Camp Nowhere,1994,7+,6.1,18%,0,0,0,1,Jonathan Prince,96.0
+322,16502,Honey I Blew Up the Kid,1992,7+,4.8,40%,0,0,0,1,Randal Kleiser,89.0
+323,16503,Steamboat Willie,1928,,7.6,,0,0,0,1,"Ub Iwerks,Walt Disney",8.0
+324,16504,Motocrossed,2001,all,6.6,,0,0,0,1,Steve Boyum,110.0
+325,16505,One Magic Christmas,1985,all,6.5,47%,0,0,0,1,Phillip Borsos,89.0
+326,16506,The Computer Wore Tennis Shoes,1969,all,6.1,50%,0,0,0,1,Robert Butler,91.0
+327,16507,Halloweentown II: Kalabar's Revenge,2001,all,6.5,,0,0,0,1,Mary Lambert,81.0
+328,16508,102 Dalmatians,2000,all,4.9,31%,0,0,0,1,Kevin Lima,100.0
+329,16509,The Santa Clause 3: The Escape Clause,2006,all,4.7,17%,0,0,0,1,Michael Lembeck,97.0
+330,16510,Teen Beach 2,2015,all,6.1,,0,0,0,1,Jeffrey Hornaday,104.0
+331,16511,Return from Witch Mountain,1978,all,5.9,50%,0,0,0,1,John Hough,95.0
+332,16512,Kitbull,2019,7+,8.0,,0,0,0,1,Rosana Sullivan,9.0
+333,16513,Tru Confessions,2002,all,7.5,,0,0,0,1,Paul Hoen,112.0
+334,16514,Treasure Island,1950,7+,6.9,,0,0,0,1,Byron Haskin,96.0
+335,16515,Prom,2011,7+,5.4,36%,0,0,0,1,Joe Nussbaum,104.0
+336,16516,Mickey's Twice Upon a Christmas,2004,all,6.5,,0,0,0,1,"Carole Holliday,Matthew O'Callaghan,Theresa Cullen",68.0
+337,16517,Zenon: Girl of the 21st Century,1999,all,6.4,,0,0,0,1,Kenneth Johnson,97.0
+338,16518,The Wild,2006,all,5.3,19%,0,0,0,1,Lee Tamahori,117.0
+339,16519,Halloweentown High,2004,all,6.2,,0,0,0,1,Mark A.Z. Dippé,82.0
+340,16520,Valiant,2005,all,5.5,32%,0,0,0,1,Gary Chapman,76.0
+341,16521,Candleshoe,1977,7+,6.8,,0,0,0,1,Norman Tokar,101.0
+342,16522,The Haunted Mansion,2003,7+,5.0,14%,0,0,0,1,Rob Minkoff,99.0
+343,16523,Twitches Too,2007,7+,5.8,,0,0,0,1,Stuart Gillard,83.0
+344,16524,Jungle 2 Jungle,1997,7+,5.2,19%,0,0,0,1,John Pasquin,105.0
+345,16525,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,2008,all,2.4,73%,0,0,0,1,Bruce Hendricks,74.0
+346,16526,The Ugly Dachshund,1966,all,6.7,,0,0,0,1,Norman Tokar,93.0
+347,16527,Kronk's New Groove,2005,all,5.8,,0,0,0,1,"Saul Blinkoff,Elliot M. Bour",75.0
+348,16528,Marvel Studios: Assembling a Universe,2014,7+,7.6,,0,0,0,1,,43.0
+349,16529,Smart House,1999,all,6.3,,0,0,0,1,LeVar Burton,82.0
+350,16530,Cadet Kelly,2002,all,5.5,,0,0,0,1,Larry Shaw,101.0
+351,16531,Z-O-M-B-I-E-S,2018,all,6.3,,0,0,0,1,Paul Hoen,94.0
+352,16532,Tom and Huck,1995,7+,5.5,25%,0,0,0,1,Peter Hewitt,97.0
+353,16533,Young Black Stallion,2003,all,5.6,45%,0,0,0,1,Simon Wincer,50.0
+354,16534,Tangled: Before Ever After,2017,all,6.6,,0,0,0,1,,21.0
+355,16535,The Reluctant Dragon,1941,all,6.9,,0,0,0,1,"Alfred L. Werker,Hamilton Luske,Jack Cutting,Ub Iwerks,Jack Kinney",74.0
+356,16536,Pocahontas II: Journey to a New World,1998,all,4.9,29%,0,0,0,1,"Tom Ellery,Bradley Raymond",72.0
+357,16537,Cheetah,1989,all,6.0,50%,0,0,0,1,Jeff Blyth,83.0
+358,16538,Avalon High,2011,all,5.7,,0,0,0,1,Stuart Gillard,90.0
+359,16539,The Fox and the Hound 2,2006,all,5.3,20%,0,0,0,1,Jim Kammerud,69.0
+360,16540,"Honey, We Shrunk Ourselves",1997,7+,5.0,25%,0,0,0,1,Dean Cundey,74.0
+361,16541,How to Build a Better Boy,2014,all,5.5,,0,0,0,1,Paul Hoen,90.0
+362,16542,The Jungle Book 2,2003,all,5.4,19%,0,0,0,1,Steve Trenbirth,72.0
+363,16543,The Luck of the Irish,2001,all,6.2,,0,0,0,1,Paul Hoen,86.0
+364,16544,Tin Toy,1988,all,6.5,,0,0,0,1,John Lasseter,5.0
+365,16545,Return to Halloweentown,2006,all,5.6,,0,0,0,1,David Jackson,88.0
+366,16546,Winnie the Pooh: A Very Merry Pooh Year,2002,all,6.8,,0,0,0,1,"Gary Katona,Ed Wexler,Jamie Mitchell",65.0
+367,16547,Johnny Tsunami,1999,all,6.3,,0,0,0,1,Steve Boyum,88.0
+368,16548,The Disney Family Singalong,2020,all,8.1,,0,0,0,1,Hamish Hamilton,
+369,16549,Don't Look Under the Bed,1999,7+,6.9,,0,0,0,1,Kenneth Johnson,100.0
+370,16550,I'll Be Home for Christmas,1998,all,5.5,23%,0,0,0,1,Arlene Sanford,86.0
+371,16551,Invisible Sister,2015,all,6.1,,0,0,0,1,Paul Hoen,80.0
+372,16552,Confessions of a Teenage Drama Queen,2004,7+,4.6,14%,0,0,0,1,Sara Sugarman,89.0
+373,16553,The Shaggy D.A.,1976,all,5.9,50%,0,0,0,1,Robert Stevenson,91.0
+374,16554,Minutemen,2008,all,5.8,,0,0,0,1,Lev L. Spiro,98.0
+375,16555,Shipwrecked,1990,7+,6.7,,0,0,0,1,Nils Gaup,92.0
+376,16556,Into the Okavango,2018,7+,7.7,,0,0,0,1,Neil Gelinas,88.0
+377,16557,Winnie the Pooh: Springtime with Roo,2004,all,6.5,,0,0,0,1,"Saul Blinkoff,Elliot M. Bour",65.0
+378,16558,12 Dates of Christmas,2011,7+,6.3,,0,0,0,1,James Hayman,90.0
+379,16559,Cow Belles,2006,all,5.2,,0,0,0,1,Francine McDougall,90.0
+380,16560,The Brave Little Toaster to the Rescue,1997,all,6.3,40%,0,0,0,1,"Robert C. Ramirez,Patrick A. Ventura",74.0
+381,16561,Blank Check,1994,7+,5.3,9%,0,0,0,1,Rupert Wainwright,93.0
+382,16562,Cinderella II: Dreams Come True,2002,all,5.0,11%,0,0,0,1,John Kafka,73.0
+383,16563,The Thirteenth Year,1999,all,6.0,,0,0,0,1,Duwayne Dunham,95.0
+384,16564,Phineas and Ferb: Star Wars,2014,all,8.2,,0,0,0,1,"Robert Hughes,Sue Perrotto",51.0
+385,16565,Belle's Magical World,1998,all,5.4,17%,0,0,0,1,"Bob Kline,Cullen Blaine,Dale Case,Daniel de la Vega,Barbara Dourmaskin-Case,Rick Leon,Burt Medall,Mitch Rochon",92.0
+386,16566,Davy Crockett and the River Pirates,1956,all,6.8,,0,0,0,1,Norman Foster,81.0
+387,16567,The Suite Life Movie,2011,all,5.3,,0,0,0,1,Sean McNamara,79.0
+388,16568,Lamp Life,2020,,6.7,,0,0,0,1,Valerie LaPointe,7.0
+389,16569,Tarzan & Jane,2002,all,5.4,17%,0,0,0,1,"Steve Loter,Victor Cook,Steve Loter,Don MacKinnon,Lisa Schaffer",75.0
+390,16570,Bad Hair Day,2015,all,6.0,,0,0,0,1,Erik Canuel,87.0
+391,16571,Operation Dumbo Drop,1995,7+,5.1,31%,0,0,0,1,Simon Wincer,107.0
+392,16572,The Story of Robin Hood and His Merrie Men,1952,7+,6.7,,0,0,0,1,Ken Annakin,84.0
+393,16573,Read It and Weep,2006,all,5.5,,0,0,0,1,Paul Hoen,84.0
+394,16574,The Living Desert,1953,all,7.5,,0,0,0,1,James Algar,69.0
+395,16575,Herbie Goes Bananas,1980,all,5.0,40%,0,0,0,1,Vincent McEveety,100.0
+396,16576,Mr. Boogedy,1986,all,7.3,,0,0,0,1,Allison Pregler,21.0
+397,16577,Double Teamed,2002,all,6.1,,0,0,0,1,Duwayne Dunham,120.0
+398,16578,The Brave Little Toaster Goes to Mars,1998,all,5.7,40%,0,0,0,1,"Robert C. Ramirez,Patrick A. Ventura",73.0
+399,16579,First Kid,1996,7+,5.2,23%,0,0,0,1,David Mickey Evans,101.0
+400,16580,The Adventures of Bullwhip Griffin,1967,,6.5,43%,0,0,0,1,James Neilson,108.0
+401,16581,The Proud Family Movie,2005,all,5.4,,0,0,0,1,Bruce W. Smith,90.0
+402,16582,Phineas and Ferb: Mission Marvel,2013,all,8.3,,0,0,0,1,"Robert Hughes,Sue Perrotto",45.0
+403,16583,Go Figure,2005,all,5.7,,0,0,0,1,Francine McDougall,88.0
+404,16584,Stuck in the Suburbs,2004,all,5.6,,0,0,0,1,Savage Steve Holland,76.0
+405,16585,Ice Age: The Great Egg-Scapade,2016,7+,5.9,,0,0,0,1,"Paul Stodolny,Ricardo Curtis,Steve Martino,Mike Thurmeier",25.0
+406,16586,College Road Trip,2008,all,4.3,12%,0,0,0,1,Roger Kumble,83.0
+407,16587,Girl vs. Monster,2012,7+,5.5,,0,0,0,1,Stuart Gillard,89.0
+408,16588,Going to the Mat,2004,all,6.8,,0,0,0,1,Stuart Gillard,120.0
+409,16589,Right on Track,2003,all,6.2,,0,0,0,1,Duwayne Dunham,89.0
+410,16590,Life with Mikey,1993,7+,5.6,25%,0,0,0,1,James Lapine,91.0
+411,16591,Wendy Wu: Homecoming Warrior,2006,all,5.4,,0,0,0,1,John Laing,91.0
+412,16592,"Marvel: 75 Years, From Pulp to Pop!",2014,7+,7.3,,0,0,0,1,Zak Knutson,42.0
+413,16593,The Small One,1978,all,7.8,,0,0,0,1,Don Bluth,26.0
+414,16594,Phantom of the Megaplex,2000,all,6.5,,0,0,0,1,Blair Treu,89.0
+415,16595,The Apple Dumpling Gang Rides Again,1979,all,6.2,,0,0,0,1,Vincent McEveety,88.0
+416,16596,Mom's Got a Date with a Vampire,2000,7+,5.9,,0,0,0,1,Steve Boyum,85.0
+417,16597,Atlantis: Milo's Return,2003,all,5.1,,0,0,0,1,"Victor Cook,Toby Shelton,Tad Stones",70.0
+418,16598,Snowball Express,1972,all,6.5,,0,0,0,1,Norman Tokar,93.0
+419,16599,Sacred Planet,2004,all,6.1,58%,0,0,0,1,Jon Long,40.0
+420,16600,The Hunchback of Notre Dame II,2002,all,4.7,30%,0,0,0,1,Bradley Raymond,68.0
+421,16601,Rip Girls,2000,all,6.2,,0,0,0,1,Joyce Chopra,87.0
+422,16602,MARS: Inside SpaceX,2018,7+,7.4,,0,0,0,1,Julia Reagan,46.0
+423,16603,Zenon: The Zequel,2001,all,5.9,,0,0,0,1,Manny Coto,100.0
+424,16604,Wings of Life,2011,all,7.4,,0,0,0,1,Louie Schwartzberg,81.0
+425,16605,Get a Clue,2002,all,5.1,,0,0,0,1,Maggie Greenwald,83.0
+426,16606,Hatching Pete,2009,all,5.4,,0,0,0,1,Stuart Gillard,90.0
+427,16607,Apollo: Missions to the Moon,2019,,7.7,,0,0,0,1,Tom Jennings,94.0
+428,16608,Pixel Perfect,2004,all,5.7,,0,0,0,1,Mark A.Z. Dippé,85.0
+429,16609,The Vanishing Prairie,1954,all,7.5,,0,0,0,1,James Algar,71.0
+430,16610,Alley Cats Strike,2000,all,6.1,,0,0,0,1,Rod Daniel,103.0
+431,16611,Life-Size 2,2018,16+,4.8,40%,0,0,0,1,Steven K. Tsuchida,81.0
+432,16612,Johnny Kapahala - Back on Board,2007,,5.5,,0,0,0,1,Eric Bross,90.0
+433,16613,Jumping Ship,2001,all,6.2,,0,0,0,1,Michael Lange,93.0
+434,16614,The Million Dollar Duck,1971,all,5.9,17%,0,0,0,1,Vincent McEveety,89.0
+435,16615,Frenemies,2012,all,5.0,,0,0,0,1,Daisy von Scherler Mayer,87.0
+436,16616,Eddie's Million Dollar Cook Off,2003,all,6.0,,0,0,0,1,Paul Hoen,110.0
+437,16617,Babes in the Woods,1932,,6.8,,0,0,0,1,Burt Gillett,8.0
+438,16618,America's Heart and Soul,2004,7+,5.1,50%,0,0,0,1,Louie Schwartzberg,84.0
+439,16619,The Mistle-Tones,2012,7+,6.7,,0,0,0,1,Paul Hoen,90.0
+440,16620,A Ring of Endless Light,2002,all,6.1,,0,0,0,1,Greg Beeman,88.0
+441,16621,The Other Me,2000,all,6.1,,0,0,0,1,Sotiris Tsafoulias,101.0
+442,16622,"Up, Up, and Away",2000,all,5.6,,0,0,0,1,Andy Liotta,80.0
+443,16623,Dolphin Reef,2018,all,6.8,,0,0,0,1,"Keith Scholey,Alastair Fothergill",77.0
+444,16624,Gus,1976,all,5.9,,0,0,0,1,Vincent McEveety,96.0
+445,16625,Almost Angels,1962,,6.7,,0,0,0,1,Steve Previn,93.0
+446,16626,Gotta Kick It Up!,2002,all,5.8,,0,0,0,1,Ramón Menéndez,78.0
+447,16627,The African Lion,1955,all,7.2,,0,0,0,1,James Algar,75.0
+448,16628,Horse Sense,1999,all,6.2,,0,0,0,1,Greg Beeman,92.0
+449,16629,Snowglobe,2007,7+,6.0,,0,0,0,1,Ron Lagomarsino,86.0
+450,16630,Once Upon A Mattress,2005,7+,6.3,,0,0,0,1,"Ron Field,Dave Powers",90.0
+451,16631,Jonas Brothers: The Concert Experience,2009,all,1.6,24%,0,0,0,1,Bruce Hendricks,76.0
+452,16632,You Wish!,2003,all,6.1,,0,0,0,1,Paul Hoen,84.0
+453,16633,The Country Bears,2002,all,4.1,29%,0,0,0,1,Peter Hastings,88.0
+454,16634,A Celebration of the Music from Coco,2020,,7.4,,0,0,0,1,Ron de Moraes,
+455,16635,In the Footsteps of Elephant,2020,,7.8,,0,0,0,1,"Vanessa Berlowitz,Tom Stephens",85.0
+456,16636,Out of Scale,1951,,7.5,,0,0,0,1,Jack Hannah,7.0
+457,16637,Inspector Gadget 2,2003,all,3.4,40%,0,0,0,1,Alex Zamm,89.0
+458,16638,Zenon: Z3,2004,all,5.5,,0,0,0,1,Steve Rash,81.0
+459,16639,Den Brother,2010,,5.4,,0,0,0,1,Mark L. Taylor,89.0
+460,16640,Miracle In Lane 2,2000,all,6.0,,0,0,0,1,Greg Beeman,120.0
+461,16641,Three Days,2001,all,7.2,,0,0,0,1,Paul Haggis,133.0
+462,16642,Atlantis Rising,2017,,6.6,,0,0,0,1,Simcha Jacobovici,93.0
+463,16643,Doug's 1st Movie,1999,all,5.0,26%,0,0,0,1,Maurice Joyce,77.0
+464,16644,The Strongest Man in the World,1975,all,6.1,,0,0,0,1,Vincent McEveety,92.0
+465,16645,Titanic: 20 Years Later with James Cameron,2017,7+,7.2,,0,0,0,1,Thomas C. Grane,46.0
+466,16646,Quints,2000,all,5.7,,0,0,0,1,Bill Corcoran,83.0
+467,16647,Breaking2,2017,7+,7.4,,0,0,0,1,Martin Desmond Roe,55.0
+468,16648,Life Is Ruff,2005,7+,4.9,,0,0,0,1,Charles Haid,84.0
+469,16649,Jungle Cat,1959,7+,7.5,,0,0,0,1,James Algar,69.0
+470,16650,Under the Sea: A Descendants Story,2018,,6.0,,0,0,0,1,Hasraf Dulull,10.0
+471,16651,Santa Paws 2: The Santa Pups,2012,all,4.9,,0,0,0,1,Robert Vince,88.0
+472,16652,Dadnapped,2009,all,4.9,,0,0,0,1,Paul Hoen,84.0
+473,16653,Bride of Boogedy,1987,all,7.5,,0,0,0,1,Oz Scott,93.0
+474,16654,Into the Grand Canyon,2019,,7.5,,0,0,0,1,Peter McBride,84.0
+475,16655,The Ultimate Christmas Present,2000,all,5.9,,0,0,0,1,Greg Beeman,85.0
+476,16656,Diving with Dolphins,2020,,7.5,,0,0,0,1,Keith Scholey,79.0
+477,16657,A Kid in King Arthur's Court,1995,7+,4.7,5%,0,0,0,1,Michael Gottlieb,89.0
+478,16658,Marvel Rising: Chasing Ghosts,2019,,4.6,,0,0,0,1,Alfred Gimeno,22.0
+479,16659,Super Buddies,2013,all,4.2,,0,0,0,1,Robert Vince,81.0
+480,16660,The Sandlot: Heading Home,2007,7+,5.0,,0,0,0,1,William Dear,96.0
+481,16661,Marvel Rising: Heart of Iron,2019,,4.0,,0,0,0,1,"Sol Choi,Alfred Gimeno",44.0
+482,16662,The Secret of the Magic Gourd,2007,all,5.1,,0,0,0,1,Frankie Chung,84.0
+483,16663,Recess: All Growed Down,2003,all,6.7,,0,0,0,1,"Howy Parkins,Chuck Sheetz",61.0
+484,16664,The Scream Team,2002,7+,6.7,,0,0,0,1,Stuart Gillard,100.0
+485,16665,Perri,1957,all,6.7,,0,0,0,1,"Paul Kenworthy,Ralph Wright",75.0
+486,16666,Penguins: Life on the Edge,2020,,6.9,,0,0,0,1,"Alastair Fothergill,Jeff Wilson",78.0
+487,16667,High School Musical: The Musical: The Series: The Special,2019,,7.5,,0,0,0,1,Clayton Cogswell,23.0
+488,16668,Buffalo Dreams,2005,all,5.8,,0,0,0,1,David Jackson,89.0
+489,16669,Full-Court Miracle,2003,all,5.8,,0,0,0,1,Stuart Gillard,90.0
+490,16670,Twas the Night,2001,all,5.4,,0,0,0,1,Nick Castle,84.0
+491,16671,George of the Jungle 2,2003,7+,3.3,17%,0,0,0,1,David Grossman,87.0
+492,16672,The Plausible Impossible,1956,,7.7,,0,0,0,1,"William Beaudine,Wilfred Jackson",50.0
+493,16673,Miracle at Midnight,1998,,7.1,,0,0,0,1,Ken Cameron,90.0
+494,16674,Iron Man & Hulk: Heroes United,2013,7+,4.7,,0,0,0,1,"Eric Radomski,Leo Riley",71.0
+495,16675,Stepsister from Planet Weird,2000,all,5.9,,0,0,0,1,Steve Boyum,85.0
+496,16676,Expedition Mars,2016,,8.0,,0,0,0,1,Mark Davis,88.0
+497,16677,That Darn Cat,1997,7+,4.7,13%,0,0,0,1,Robert Stevenson,116.0
+498,16678,Those Calloways,1965,7+,6.7,,0,0,0,1,Norman Tokar,131.0
+499,16679,The Sign of Zorro,1958,,7.1,,0,0,0,1,"Lewis R. Foster,Norman Foster",91.0
+500,16680,Decorating Disney: Holiday Magic,2017,7+,6.9,,0,0,0,1,,42.0
+501,16681,Treasure of Matecumbe,1976,all,6.2,,0,0,0,1,Vincent McEveety,117.0
+502,16682,The Christmas Star,1986,all,6.4,,0,0,0,1,Alan Shapiro,94.0
+503,16683,Stonehenge: Decoded,2008,,6.5,,0,0,0,1,Christopher Spencer,92.0
+504,16684,Marvel Rising: Operation Shuri,2019,7+,5.2,,0,0,0,1,"Chris Rutkowski,Eric Radomski",21.0
+505,16685,Emil and the Detectives,1964,7+,6.2,,0,0,0,1,Peter Tewksbury,99.0
+506,16686,Marvel Rising: Battle of the Bands,2019,,5.0,,0,0,0,1,Chris Rutkowski,22.0
+507,16687,Kazaam,1996,7+,3.0,6%,0,0,0,1,Paul Michael Glaser,93.0
+508,16688,Marvel Rising: Playing with Fire,2019,7+,5.3,,0,0,0,1,"Sol Choi,Eric Radomski",44.0
+509,16689,Nature's Half Acre,1951,,7.2,,0,0,0,1,James Algar,33.0
+510,16690,Ready to Run,2000,all,5.3,,0,0,0,1,Duwayne Dunham,96.0
+511,16691,You Lucky Dog,1998,all,4.7,,0,0,0,1,Paul Schneider,89.0
+512,16692,Water Birds,1952,,6.7,,0,0,0,1,Ben Sharpsteen,30.0
+513,16693,The Flood,2018,,8.1,,0,0,0,1,Anthony Woodley,99.0
+514,16694,Skyrunners,2009,all,5.0,,0,0,0,1,Ralph Hemecker,92.0
+515,16695,The Lost Tomb of Alexander the Great,2019,7+,6.6,,0,0,0,1,Duncan Singh,
+516,16696,Drain the Great Lakes,2011,all,6.9,,0,0,0,1,"Wayne Abbott,Crispin Sadler",47.0
+517,16697,Disney's Fairy Tale Weddings,2017,,6.8,,0,0,0,1,,63.0
+518,16698,Paris to Pittsburgh,2018,,6.9,,0,0,0,1,"Sidney Beaumont,Michael Bonfiglio",77.0
+519,16699,A Tale of Two Critters,1977,all,6.5,,0,0,0,1,Jack Speirs,48.0
+520,16700,Drain the Titanic,2016,,6.4,,0,0,0,1,Wayne Abbott,46.0
+521,16701,Fuzzbucket,1986,all,6.2,,0,0,0,1,Mick Garris,46.0
+522,16702,Trail of the Panda,2009,all,6.5,,0,0,0,1,Zhong Yu,87.0
+523,16703,Secrets of Christ's Tomb: Explorer Special,2017,,6.4,,0,0,0,1,Robert Strange,46.0
+524,16704,"Sammy, the Way-Out Seal",1962,all,6.7,,0,0,0,1,Norman Tokar,89.0
+525,16705,Meet the Deedles,1998,7+,4.1,7%,0,0,0,1,Steve Boyum,93.0
+526,16706,Justin Morgan Had a Horse,1972,all,6.5,,0,0,0,1,Hollingsworth Morse,91.0
+527,16707,The Biscuit Eater,1972,all,5.7,,0,0,0,1,Vincent McEveety,90.0
+528,16708,Miracle Landing on the Hudson,2013,,6.7,,0,0,0,1,Simon George,90.0
+529,16709,Prowlers of the Everglades,1953,,8.0,,0,0,0,1,James Algar,32.0
+530,16710,The Castaway Cowboy,1974,all,5.9,,0,0,0,1,Vincent McEveety,91.0
+531,16711,Casebusters,1986,all,5.8,,0,0,0,1,Wes Craven,45.0
+532,16712,Mission to the Sun,2018,7+,6.9,,0,0,0,1,Daniel M. Smith,60.0
+533,16713,Drain the Bermuda Triangle,2014,,6.4,,0,0,0,1,Jobim Sampson,44.0
+534,16714,Drain The Ocean: WWII,2016,7+,7.0,,0,0,0,1,Mike Slee,44.0
+535,16715,Hounded,2001,all,5.1,,0,0,0,1,Neal Israel,91.0
+536,16716,Yellowstone Cubs,1963,all,6.9,,0,0,0,1,Charles L. Draper,48.0
+537,16717,Kingdom of the Blue Whale,2009,,7.3,,0,0,0,1,,94.0
+538,16718,Viking Warrior Women,2019,,6.6,,0,0,0,1,"David Bartlett,Sebastian Peiter",51.0
+539,16719,Pocahontas,1995,,5.3,55%,0,0,0,1,"Mike Gabriel,Eric Goldberg",81.0
+540,16720,Drain Alcatraz,2017,,5.9,,0,0,0,1,Wayne Abbott,47.0
+541,16721,The Spaceman and King Arthur,1979,all,5.3,,0,0,0,1,Russ Mayberry,93.0
+542,16722,Secrets of Life,1956,all,7.2,,0,0,0,1,James Algar,70.0
+543,16723,Hacksaw,1971,7+,6.3,,0,0,0,1,Larry Lansburgh,89.0
+544,16724,Can of Worms,1999,7+,5.0,,0,0,0,1,Paul Schneider,90.0
+545,16725,My Dog the Thief,1969,,6.1,,0,0,0,1,Robert Stevenson,88.0
+546,16726,Richie Rich's Christmas Wish,1998,all,4.1,,0,0,0,1,John Murlowski,84.0
+547,16727,The Jungle Book: Mowgli's Story,1998,all,4.2,,0,0,0,1,Nick Marck,77.0
+548,16728,How Dogs Got Their Shapes,2016,,6.7,,0,0,0,1,Keith Haskel,
+549,16729,Drain The Sunken Pirate City,2017,,6.6,,0,0,0,1,Sophie Elwin-Harris,47.0
+550,16730,Bizarre Dinosaurs,2010,,6.8,,0,0,0,1,Jenny Kubo,48.0
+551,16731,Earth Live,2017,,5.5,,0,0,0,1,Glenn Weiss,
+552,16732,The Boy Who Talked to Badgers,1975,,6.2,,0,0,0,1,Gary Nelson,89.0
+553,16733,Sea of Hope: America's Underwater Treasures,2017,,7.3,,0,0,0,1,Robert Nixon,48.0
+554,16734,Sultan And The Rock Star,1980,,5.9,,0,0,0,1,Edward M. Abroms,60.0
+555,16735,Secrets of the King Cobra,2010,,6.4,,0,0,0,1,,
+556,16736,Winged Seduction: Birds of Paradise,2012,,6.5,,0,0,0,1,Molly Hermann,
+557,16737,The Bears and I,1974,all,6.2,,0,0,0,1,Bernard McEveety,89.0
+558,16738,Whispers: An Elephant's Tale,2000,all,5.0,,0,0,0,1,Dereck Joubert,72.0
+559,16739,The Ghosts of Buxley Hall,1980,,6.2,,0,0,0,1,Bruce Bilson,120.0
+560,16740,The Poof Point,2001,7+,4.7,,0,0,0,1,Neal Israel,90.0
+561,16741,Sharks of Lost Island,2013,,5.7,,0,0,0,1,Neil Gelinas,
+562,16742,Man Among Cheetahs,2017,,6.6,,0,0,0,1,Richard Slater-Jones,
+563,16743,In Beaver Valley,1950,,,,0,0,0,1,James Algar,32.0
