@@ -1,0 +1,48 @@
+convert the four streaming service columns into one using binary.
+idk how to account for ratings age group and streaming services all at once yet.
+
+age group 3
+each streaming service 1 or 0
+0000
+0001
+0010
+0011
+0100
+0101
+0110
+0111
+1000
+1001
+1010
+1011
+1100
+1101
+1110
+1111
+
+with just the age groups and streaming services, there are 48 possible combinations
+
+
+imdb 1-10
+rotten tomatoes 0-100%
+
+0-20 horrible
+21-40 really bad
+41-60 bad/average
+61-80 average/good
+81-100 good/amazing
+
+if ratings are put on the same scale and averaged between 5 possible categories, there are 240 possible combinations
+
+0-10 literally the worst
+11-20 horrible
+21-30 terrible
+31-40 really bad
+41-50 bad
+51-60 below average
+61-70 average
+71-80 good 
+81-90 really good
+91-100 amazing
+
+if ratings are put on the same scale and averaged between 10 possible categories, there are 480 possible combinations

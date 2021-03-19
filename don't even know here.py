@@ -4,6 +4,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 
 def prep_data():
+
+    #read rata in from given file path and create a pandas dataframe from it
     filename = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.csv"
     input = pd.read_csv(filename)
     data = pd.DataFrame(input)
@@ -14,11 +16,10 @@ def prep_data():
     #print("after")
     #print(data.loc[[0]])
     
+    #give the columns in the dataframe names
     data.columns = ["title", "year", "age_group", "imdb", "rotten_tomatoes", "netflix", 
     "hulu", "prime_video", "disney_plus", "director", "runtime"]
     print(data.loc[[0]])
-    #data = np.array(input)
-    #print(data[0,:])
 
     #fill empty data slots with unknown for consistency
     data.title.fillna("unknown")
@@ -33,6 +34,7 @@ def prep_data():
     data.director.fillna("unknown")
     data.runtime.fillna("unknown")
 
+    #separate data columns out that aren't needed for determining target values
     titles = data.title
     years = data.year
     directors = data.director
@@ -41,7 +43,7 @@ def prep_data():
 
     print(data.loc[[0]])
 
-    
+
     """ #create new dataframe with number values
     data_new = pd.get_dummies(data, columns=["title", "year", "age_group", "imdb", "rotten_tomatoes", 
     "netflix", "hulu", "prime_video", "disney_plus", "director", "runtime"])
