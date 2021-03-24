@@ -8,6 +8,17 @@ def prep_data():
     #read rata in from given file path and create a pandas dataframe from it
     filename = r"C:\Users\wij20\OneDrive\Desktop\School\senior_project\senior_project_winter21\edited_data.csv"
     input = pd.read_csv(filename)
+
+    """ average_ratings = []
+
+    count = 0
+    for i in input:
+        print("count: ", count)
+        print(i[4], i[5])
+        average = ((float(i[4]) * 10) * float(i[5])) / 2
+        average_ratings.append(average)
+        count += 1  """
+
     data = pd.DataFrame(input)
     #print("before")
     #print(data.loc[[0]])
@@ -40,6 +51,31 @@ def prep_data():
     directors = data.director
     runtimes = data.runtime
     data = data.drop(data.columns[[0, 1, 9, 10]], axis=1)
+
+    print(data.loc[[0]])
+
+    ratings_only = data[["imdb", "rotten_tomatoes"]]
+
+    average_ratings = []
+    count = 0
+
+    for i in ratings_only:
+        print("count: ", count)
+        print(i["imdb"], i["rotten_tomatoes"])
+        average = ((float(i[0]) * 10) * float(i[1])) / 2
+        average_ratings.append(average)
+        count += 1 
+
+    """ count = 0
+    for i in data.rows:
+        print("count: ", count)
+        print(i[1], i[2])
+        average = ((float(i[1]) * 10) * float(i[2])) / 2
+        average_ratings.append(average)
+        count += 1  """
+
+    data = data.drop(data.columns[[1, 2]], axis=1)
+    #data["average_ratings"] = average_ratings """
 
     print(data.loc[[0]])
 
