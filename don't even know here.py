@@ -54,25 +54,29 @@ def prep_data():
 
     print(data.loc[[0]])
 
-    ratings_only = data[["imdb", "rotten_tomatoes"]]
+    """ ratings_only = data[["imdb", "rotten_tomatoes"]]
 
     average_ratings = []
     count = 0
 
-    for i in ratings_only:
-        print("count: ", count)
-        print(i["imdb"], i["rotten_tomatoes"])
+    for index, row in ratings_only.iterrows():
+        #print("count: ", count)
+        print(row.index[0])
+        average = ((row.index[0] * 10.0) * row.index[1]) / 2
+        average_ratings.append(average)
+        print(i[0], i[1])
         average = ((float(i[0]) * 10) * float(i[1])) / 2
         average_ratings.append(average)
         count += 1 
 
-    """ count = 0
+    print("count", count)
+    count = 0
     for i in data.rows:
         print("count: ", count)
         print(i[1], i[2])
         average = ((float(i[1]) * 10) * float(i[2])) / 2
         average_ratings.append(average)
-        count += 1  """
+        count += 1
 
     data = data.drop(data.columns[[1, 2]], axis=1)
     #data["average_ratings"] = average_ratings """
