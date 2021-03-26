@@ -1,6 +1,7 @@
 #here we go
 import pandas as pd
 import numpy as np 
+import math
 from sklearn.model_selection import train_test_split
 
 def prep_data():
@@ -45,80 +46,67 @@ def prep_data():
     data.director.fillna("unknown")
     data.runtime.fillna("unknown")
 
+    print(data.loc[[0]])
+
+    ratings_only = data[["imdb", "rotten_tomatoes"]]
+
+    average_ratings = []
+    count = 0
+
+    for i in data.index:
+        #print(data["imdb"][i], data["rotten_tomatoes"][i])
+
+        #create temporary variables to hold the values of imdb and rotten tomatoes at this index
+        imdb_temp = data["imdb"][i]
+        rotten_temp = data["rotten_tomatoes"][i]
+
+        #handle the % in the rotten tomatoes column and the blank entries
+        if('%' in str(rotten_temp)):
+            rotten_temp = rotten_temp[:-1:]
+        else:
+            rotten_temp = -1
+        
+        #handle blank entries in imdb
+        if(math.isnan(imdb_temp)):
+            imdb_temp = -1
+
+        #calculate the average between the two ratings
+        #note if either rating is zero, set average to the other rating
+        #if both are zero set average to -1 (disregard)
+        average = -1
+        if((imdb_temp != -1) and (rotten_temp != -1)):
+            average = ((imdb_temp * 10.0) * float(rotten_temp)) / 2.0
+        elif((imdb_temp != -1) and (float(rotten_temp) == -1)):
+            average = imdb_temp * 10.0
+        elif((imdb_temp == -1) and (float(rotten_temp) != -1)):
+            average = float(rotten_temp)
+        
+        average_ratings.append(average)
+
+        #this is just to keep track of how many averages are above 100 ie wrong
+        if(average > 100):
+            count += 1
+            #print(average)
+
+    print(count) #count is the total number of averages that are above 100
+
+    print(data.loc[[0]])
+
+    #for some reason this set of commands works but the letters aren't changing colors
+    """ratings = pd.DataFrame(average_ratings)
+    print(ratings) """
+
     #separate data columns out that aren't needed for determining target values
     titles = data.title
     years = data.year
     directors = data.director
     runtimes = data.runtime
-    data = data.drop(data.columns[[0, 1, 9, 10]], axis=1)
-
-    print(data.loc[[0]])
-
-    """ ratings_only = data[["imdb", "rotten_tomatoes"]]
-
-    average_ratings = []
-    count = 0
-
-    for index, row in ratings_only.iterrows():
-        #print("count: ", count)
-        print(row.index[0])
-        average = ((row.index[0] * 10.0) * row.index[1]) / 2
-        average_ratings.append(average)
-        print(i[0], i[1])
-        average = ((float(i[0]) * 10) * float(i[1])) / 2
-        average_ratings.append(average)
-        count += 1 
-
-    print("count", count)
-    count = 0
-    for i in data.rows:
-        print("count: ", count)
-        print(i[1], i[2])
-        average = ((float(i[1]) * 10) * float(i[2])) / 2
-        average_ratings.append(average)
-        count += 1
-
-    data = data.drop(data.columns[[1, 2]], axis=1)
-    #data["average_ratings"] = average_ratings """
-
-    print(data.loc[[0]])
-
-
-    """ #create new dataframe with number values
-    data_new = pd.get_dummies(data, columns=["title", "year", "age_group", "imdb", "rotten_tomatoes", 
-    "netflix", "hulu", "prime_video", "disney_plus", "director", "runtime"])
-
-    data_new.title = data.title.astype("title")
-    data_new["title_codes"] = data_new.title.cat.codes
-
-    data_new.year = data.year.astype("year")
-    data_new["year_codes"] = data_new.year.cat.codes
-
-    data_new.age_group = data.age_group.astype("age_group")
-    data_new["age_group_codes"] = data_new.age_group.cat.codes
+    data = data.drop(data.columns[[0, 1, 3, 4, 9, 10]], axis=1)
     
-    data_new.imdb = data.imdb.astype("imdb")
-    data_new["imdb_codes"] = data_new.imdb.cat.codes
+    #the 2 line comment block is doing something wierd and I think it's affecting the 
+    #line below this comment
+    #data = data.append(ratings)
 
-    data_new.rotten_tomatoes = data.rotten_tomatoes.astype("rotten_tomatoes")
-    data_new["rotten_tomatoes_codes"] = data_new.rotten_tomatoes.cat.codes
-
-    data_new.netflix = data.netflix.astype("netflix")
-    data_new["netflix_codes"] = data_new.netflix.cat.codes
-
-    data_new.hulu = data.hulu.astype("hulu")
-    data_new["hulu_codes"] = data_new.hulu.cat.codes
-
-    data_new.prime_video = data.prime_video.astype("prime_video")
-    data_new["prime_video_codes"] = data_new.prime_video.cat.codes
-
-    data_new.disney_plus = data.disney_plus.astype("disney_plus")
-    data_new["disney_plus_codes"] = data_new.disney_plus.cat.codes
-
-    data_new.director = data.director.astype("director")
-    data_new["director_codes"] = data_new.director.cat.codes
-
-    data_new.runtime = data.runtime.astype("runtime")
-    data_new["runtime_codes"] = data_new.runtime.cat.codes """
+    print(data.loc[[0]])
 
 prep_data()
